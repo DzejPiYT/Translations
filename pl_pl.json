@@ -14,7 +14,7 @@
   "logoutFail": "Blad z wylogowaniem! %error%",
   "logoutSuccess": "Wylogowano!",
   "registerAlready": "To konto juz jest zarejestrowane!",
-  "registerCaptcha": "Wpisz haslo pokazane na czacie!",
+  "registerCaptcha": "Wpisz haslo pokazane, na czat!",
   "registerSuccess": "Zarejestrowano! Mozesz sie juz logowac!",
   "unregisterSuccess": "Konto zostało wyrejestrowane!",
   "unregisterFail": "Nie udalo sie wyrejestrowac konta! Bledne haslo!",
